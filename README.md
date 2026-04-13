@@ -2,6 +2,8 @@
 
 A simple CLI tool to archive logs by compressing them into timestamped `.tar.gz` files and logging the activity.
 
+Project URL: [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+
 ## Requirements
 
 - **Shell**: Bash-compatible shell (Git Bash, WSL, or Linux/Unix).
